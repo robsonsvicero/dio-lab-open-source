@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-    Designer especialista em identidade visual e UI Design de São Paulo, Brasil. Atualmente expandindo meus conhecimentos no bootcamp Coding The Future Squadio - Python Data Analytics.
+    Sou um designer que já me aventurei na programação no passado (sem muito sucesso) e que resolveu dar mais uma chance, já que gosto muito da área. Hoje sou aluno do bootcamp Avanade - Back-end com .NET e IA
 </p><br>
 
 ## Conecte-se Comigo
